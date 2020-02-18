@@ -1,0 +1,5 @@
+# Generate CSV from PMU's API (in Rust)
+
+```bash
+    cargo run 01022020
+```
